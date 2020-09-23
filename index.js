@@ -12,7 +12,7 @@ app.offline = false  // set to true to go into "offline" mode (in case of ip ban
 app.secret = 'Wmfd2893gb7'
 app.gameVersion = '21'
 app.binaryVersion = '35'
-app.endpoint = 'http://boomlings.com/database/'
+app.endpoint = 'http://gmdmundial1.5v.pl/database/'
 app.config = require('./misc/gdpsConfig')  // tweak settings in this file if you're using a GDPS
 
 const RL = rateLimit({
